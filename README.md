@@ -11,8 +11,8 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Table of Contents (Optional)
 
-- [User Story](#UserStory)
-- [Acceptance Criteria](#AcceptanceCriteria)
+- [User Story](#User-story)
+- [Acceptance Criteria](#acceptance-criteria)
 - [Credits](#credits)
 - [License](#license)
 
