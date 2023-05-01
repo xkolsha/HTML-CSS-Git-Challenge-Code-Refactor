@@ -1,4 +1,4 @@
-# Module 1 - HTML CSS Git Challenge: Code Refactor
+# Website for a marketing agency
 
 ## Description
 
@@ -11,14 +11,23 @@ Even though accessibility is a broad topic that can include complex requirements
 ## Table of Contents (Optional)
 
 - [User Story](#User-story)
+- [How to Complete the Challenge](#how-to-complete-the-challenge)
 - [Acceptance Criteria](#acceptance-criteria)
+- [Mock Up](#mock-up)
 - [Credits](#credits)
 - [License](#license)
 
+## How to Complete the Challenge
+
+- Starter code is in a folder called Develop (will be in a branch called starter code), which you'll modify to complete the challenge.
+- Refactor the code to meet the Acceptance Criteria.
+
 ## User Story
+
 As a marketing agency, I want a codebase that follows accessibility standards so that our own site is optimized for search engines.
 
 ## Acceptance Criteria
+
 - GIVEN a webpage meets accessibility standards
 - WHEN I view the source code
 - THEN I find semantic HTML elements
@@ -31,9 +40,14 @@ As a marketing agency, I want a codebase that follows accessibility standards so
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
 
+## Mock Up
+
+(Add any relevant mock-up or screenshot of the website)
+
 ## Credits
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+https://courses.bootcampspot.com/ (Challenge description)
 
 ## License
 
@@ -59,7 +73,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-### Badges
+## Badges
 
 ![badmath](https://img.shields.io/github/license/xkolsha/unbModule1Challenge?color=%238F83ED
 )
