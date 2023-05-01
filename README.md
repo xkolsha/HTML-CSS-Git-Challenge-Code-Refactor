@@ -59,5 +59,7 @@ SOFTWARE.
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
 https://img.shields.io/github/license/xkolsha/unbModule1Challenge?color=%238F83ED
+
 https://img.shields.io/github/languages/code-size/xkolsha/unbModule1Challenge?color=%238F83ED
