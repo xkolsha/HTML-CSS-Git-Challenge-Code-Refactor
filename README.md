@@ -13,7 +13,6 @@ Even though accessibility is a broad topic that can include complex requirements
 - [User Story](#User-story)
 - [How to Complete the Challenge](#how-to-complete-the-challenge)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Mock Up](#mock-up)
 - [Credits](#credits)
 - [License](#license)
 
@@ -39,10 +38,6 @@ As a marketing agency, I want a codebase that follows accessibility standards so
 - THEN they fall in sequential order
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
-
-## Mock Up
-
-(Add any relevant mock-up or screenshot of the website)
 
 ## Credits
 
