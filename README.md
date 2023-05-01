@@ -41,8 +41,8 @@ As a marketing agency, I want a codebase that follows accessibility standards so
 
 ## Credits
 
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-https://courses.bootcampspot.com/ (Challenge description)
+- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- https://courses.bootcampspot.com/ (Challenge description)
 
 ## License
 
