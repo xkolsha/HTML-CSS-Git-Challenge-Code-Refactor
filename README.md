@@ -8,7 +8,7 @@ Web accessibility is an increasingly important consideration for businesses. It 
 
 Even though accessibility is a broad topic that can include complex requirements, your tech lead has given you a small list of specific criteria to satisfy the project. These criteria are documented in the Acceptance Criteria section.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [User Story](#User-story)
 - [How to Complete the Challenge](#how-to-complete-the-challenge)
