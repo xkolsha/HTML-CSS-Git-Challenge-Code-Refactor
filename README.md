@@ -48,6 +48,7 @@ As a marketing agency, I want a codebase that follows accessibility standards so
 
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 - https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+- http://meyerweb.com/eric/tools/css/reset/
 - https://courses.bootcampspot.com/ (Challenge description)
 
 ## License
